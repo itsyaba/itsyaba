@@ -61,7 +61,9 @@
 ![](https://komarev.com/ghpvc/?username=itsyaba)
 
 ###
+[![wakatime](https://wakatime.com/badge/user/2b224cfe-965f-4f77-99f7-65a66228c302.svg)](https://wakatime.com/@2b224cfe-965f-4f77-99f7-65a66228c302)
 
+  ###
   <picture>
   <source
     media="(prefers-color-scheme: dark)"
