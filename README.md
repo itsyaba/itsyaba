@@ -3,9 +3,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsyaba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsyaba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=itsyaba&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="itsyaba's streak"  />
+
+![itsyaba's Stats](https://github-readme-stats.vercel.app/api?username=itsyaba&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsyaba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=itsyaba&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5" height="150" alt="itsyaba's streak"  />
 </div>
 
 ###
