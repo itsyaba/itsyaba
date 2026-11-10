@@ -6,8 +6,13 @@ I build products people use, from the API to the app in your pocket: web, iOS an
 
 - Frontend engineer at [IDEEZA](https://www.ideeza.com), an AI platform that turns a product idea into hardware.
 - As CTO of Tigu, I built its app, website, admin and backend. The app passed 7,000 downloads in its first 75 days.
-- 13 merged pull requests to [Mangayomi](https://github.com/kodjodevf/mangayomi) and its extensions, for fun.
 - Everything else is on [yab.pro.et](https://yab.pro.et).
+
+<h3>Open source</h3>
+
+- **[Mangayomi](https://github.com/kodjodevf/mangayomi)**: a free reader for manga, novels and anime on Android, iOS and desktop. [4 merged pull requests](https://github.com/kodjodevf/mangayomi/pulls?q=is%3Apr+author%3Aitsyaba+is%3Amerged) in the app (smoother webtoon scrolling, backup restore, update badges, extension installs) and [9 in its extensions](https://github.com/m2k3a/mangayomi-extensions/pulls?q=is%3Apr+author%3Aitsyaba+is%3Amerged), mostly new sources.
+- **[data-peek](https://github.com/Rohithgilla12/data-peek)**: a fast, minimal desktop database client. [Made its desktop menu items that did nothing actually work](https://github.com/Rohithgilla12/data-peek/pull/289).
+- **In review:** [Expo Router](https://github.com/expo/expo/pull/51242) (an extra render in `useFocusEffect`), [shadcn/ui](https://github.com/shadcn-ui/ui/pull/12240) (registry hooks landing in the right workspace) and the [Caelestia shell](https://github.com/caelestia-dots/shell/pull/2110) (an option to turn the weather off).
 
 <h3>Side projects</h3>
 
