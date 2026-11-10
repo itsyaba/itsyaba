@@ -11,8 +11,8 @@ I build products people use, from the API to the app in your pocket: web, iOS an
 
 <h3>Side projects</h3>
 
-- **Melodify**: an offline-first music player for iPhone and Android, inspired by Musicolet. No accounts, no streaming, no ads: it plays the files on your phone. Expo and React Native.
-- **Patchwork**: an AI site builder where your own edits survive. Every visual tweak becomes a real code edit, and when you ask the AI for more, it builds around your work.
+- **[Melodify](https://github.com/itsyaba/melodify)**: an offline-first music player for iPhone and Android, inspired by Musicolet. No accounts, no streaming, no ads: it plays the files on your phone. Expo and React Native.
+- **[Patchwork](https://patchwork-editor.vercel.app)**: an AI site builder where your own edits survive. Every visual tweak becomes a real code edit, and when you ask the AI for more, it builds around your work. ([code](https://github.com/itsyaba/patchwork))
 - **[Melon Jelly](https://melon-jelly-tau.vercel.app)**: a slice of watermelon jelly you can pull and cut, simulated as a real soft body in WebGPU. The physics and shaders are hand-written. ([code](https://github.com/itsyaba/melon-jelly))
 - **[Forge](https://github.com/itsyaba/forge)**: a workout planner for people who don't know what a workout looks like yet. It suggests a plan from your free days and walks you through every set.
 - **[Leash](https://github.com/itsyaba/Leash)**: an Android app that puts addictive apps on a leash, with real time limits and cooldowns that are hard to get around.
