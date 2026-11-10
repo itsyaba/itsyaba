@@ -17,6 +17,8 @@ I build products people use, from the API to the app in your pocket: web, iOS an
 - **[Forge](https://github.com/itsyaba/forge)**: a workout planner for people who don't know what a workout looks like yet. It suggests a plan from your free days and walks you through every set.
 - **[Leash](https://github.com/itsyaba/Leash)**: an Android app that puts addictive apps on a leash, with real time limits and cooldowns that are hard to get around.
 - **[redactenv](https://github.com/itsyaba/redactenv)**: scrubs API keys, tokens and secrets out of a Node server's responses, error pages and logs before they leave the server.
+- **[Redat (ረዳት)](https://github.com/itsyaba/redat)**: an Amharic voice assistant for my Linux desktop. I speak, Claude does the task, and it answers out loud in Amharic.
+- **[dotfiles](https://github.com/itsyaba/dotfiles)**: my CachyOS + Hyprland setup on the Caelestia shell, with glass panels and a usage drawer I built in Quickshell.
 
 <p>
   <a href="https://yab.pro.et"><img src="https://img.shields.io/static/v1?message=yab.pro.et&logo=googlechrome&label=&color=3a3af4&logoColor=white&style=for-the-badge" height="32" alt="Website" /></a>
