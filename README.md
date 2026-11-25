@@ -5,7 +5,7 @@
 I build products people use, from the API to the app in your pocket: web, iOS and Android, from Addis Ababa, Ethiopia.
 
 - Frontend engineer at [IDEEZA](https://www.ideeza.com), an AI platform that turns a product idea into hardware.
-- As CTO of Tigu, I built its app, website, admin and backend. The app passed 7,000 downloads in its first 75 days.
+- I built the app and website for Tigu, a creator marketplace. The app passed 7,000 downloads in its first 75 days.
 - Everything else is on [yab.pro.et](https://yab.pro.et).
 
 <h3>Open source</h3>
