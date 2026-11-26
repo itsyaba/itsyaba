@@ -8,9 +8,9 @@
 <a href="mailto:yabahane@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-mail-dark.svg"><img src="assets/link-mail-light.svg" height="48" alt="Email"></picture></a>
 </p>
 
-<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/stats-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/stats-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="On GitHub: 2,820 contributions in the past year, a 74-day streak right now, longest streak 77 days, 27 pull requests merged into other people&#39;s public repositories."></picture>
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/stats-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/stats-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="On GitHub: 2,821 contributions in the past year, a 74-day streak right now, longest streak 77 days, 27 pull requests merged into other people&#39;s public repositories."></picture>
 
-<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/year-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/year-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/year-dark.svg"><img src="assets/year-light.svg" width="100%" alt="2,820 contributions in the past year, one glass bead per day. Busiest day 31 Oct, with 98."></picture>
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/year-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/year-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/year-dark.svg"><img src="assets/year-light.svg" width="100%" alt="2,821 contributions in the past year, one glass bead per day. Busiest day 31 Oct, with 98."></picture>
 
 <h3>Things I've made</h3>
 
