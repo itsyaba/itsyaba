@@ -1,0 +1,39 @@
+# Redraws every picture in the README from my GitHub data, every night
+# just after midnight in Addis Ababa (21:05 UTC), and whenever the drawing
+# code changes.
+name: redraw
+
+on:
+  schedule:
+    - cron: "5 21 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/redraw.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: redraw
+  cancel-in-progress: true
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/build.mjs
+        env:
+          # PROFILE_TOKEN (a read-only PAT) also counts private contributions; the default token sees public ones
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
+      - name: Commit if anything changed
+        run: |
+          git add -A
+          if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -m "redraw: $(date -u +%F)"
+          git push
